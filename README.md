@@ -54,7 +54,7 @@ We mainly used Visual Studio as IDE and installed required extentions such as fl
 ## Features and Functionalities of the application:
  #### Splash
  
-<p align="center"> <img width="250" height="400" src="enter.jpg"> </p>
+<p align="center"> <img width="250" height="400" src="images/enter.jpg"> </p>
  
 
 ### User authentication:
@@ -62,17 +62,17 @@ We mainly used Visual Studio as IDE and installed required extentions such as fl
 #### Log in  :
 Entering the application, a log in page is available for a new user.
 One should drop the valid email address & the password to login.
-<p align="center"> <img width="250" height="400" src="login.jpg"> </p>
+<p align="center"> <img width="250" height="400" src="images/login.jpg"> </p>
  
 ### Sign up system:
  For the first time of using the app, one should sign up with a valid email address, First name, Last name, min 6digits password.
-<p align="center"> <img width="250" height="400" src="signup.jpg"> </p>
+<p align="center"> <img width="250" height="400" src="images/signup.jpg"> </p>
 
 
 Homepage :
 The home tab welcomes you and introduces itself with an overview. 
  
-<p align="center"> <img width="250" height="400" src="home1.jpg"> <img width="250" height="400" src="home2.jpg"> <img width="250" height="400" src="home3.jpg"> </p>
+<p align="center"> <img width="250" height="400" src="images/home1.jpg"> <img width="250" height="400" src="images/home2.jpg"> <img width="250" height="400" src="images/home3.jpg"> </p>
 
 ## Chatbot:
 Beside the home button, a chat tab offers the chatscreen.
@@ -108,7 +108,7 @@ Click this button and know some basic info about SUST.
  
   <p align="center"> <img width="250" height="400" src="visit.jpg"> <img width="250" height="400" src="visit1.jpg">  </p>
  
- <p align="center"> <img width="250" height="400" src="visit2.jpg"> <img width="250" height="400" src="visit3.jpg">  </p>
+ <p align="center"> <img width="250" height="400" src="visit2.jpg"> <img width="250" height="400" src="images/visit3.jpg">  </p>
  
  
  
