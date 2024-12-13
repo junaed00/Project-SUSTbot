@@ -114,7 +114,7 @@ Click this button and know some basic info about SUST.
  
 ### Schools and Departments : 
 See all the depts.
-  <p align="center"> <img width="250" height="400" src="images/dept.jpg"> </p>
+  <p align="center"> <img width="250" height="400" src="images/depts.jpg"> </p>
  
 ### Library:
 View Central library, IICT library
@@ -170,8 +170,8 @@ View some organization info. (Remaings will be updated later).
 ## Developers
  
 Name :
- Md Mizbah Uddin Junaed
- Redwan Akhand Niloy
+ ### Md Mizbah Uddin Junaed
+ ### Redwan Akhand Niloy
  
 Group number- 30
  Group name - Paradox
